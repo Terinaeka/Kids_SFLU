@@ -11,7 +11,7 @@ Head over to https://www.djangoproject.com/download/ for the download guide
 
 or you can run this command
 
-`pip install -r requirements.txt`
+`$ pip install -r requirements.txt`
 
 
 Once you have downloaded django, go to the cloned repo directory and run the following command
